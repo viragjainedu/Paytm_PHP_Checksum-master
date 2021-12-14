@@ -22,9 +22,9 @@ $paytmParams["body"] = array(
 	"userInfo" => array(
 		"custId"=> $custId,
 	),
-	"enablePaymentMode" => array([
+	"enablePaymentMode" => array(
 		array("mode" => "UPI")
-	])
+	)
 );
 
 /*
